@@ -28,7 +28,7 @@ My GitHub showcases projects that reflect **real-world frontend development skil
 ### 🚀 Featured Projects
 
 **Books Review App**  
-![Books Review App Screenshot](https://github.com/moshabbirhossain337/books-review-app/blob/main/screenshot.png)  
+![Books Review App Screenshot](https://github.com/moshabbirhossain337/books-review-app/assests/screenshot.png)  
 - Responsive React web app to browse books, read reviews, and ratings  
 - Implemented **component-based UI architecture** and **state-driven interactions**  
 - Deployed on Netlify for production-ready performance  
