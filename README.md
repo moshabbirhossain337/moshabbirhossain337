@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Moshabbir Hossain
-### Frontend Developer | MERN Stack Developer
+### Frontend Developer (React, Next.js) | MERN Stack Developer | Passionate about Scalable Web Apps
 
 ![MERN Stack Developer Banner](https://i.postimg.cc/L84bNk62/frontend-bannerr.png)
 
