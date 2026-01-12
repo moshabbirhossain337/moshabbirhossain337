@@ -1,38 +1,49 @@
-## Hi there 👋, I'm Moshabbir Hossain
-### Frontend Developer (React, Next.js) | MERN Stack Developer | Building Scalable Web Apps
+## Hi there 👋, I'm Md. Moshabbir Hossain
+### Junior Frontend Developer | React.js & Next.js | Clean, Scalable UI
 
 ![MERN Stack Developer Banner](https://github.com/moshabbirhossain337/moshabbirhossain337/blob/0a73c720afb59fb0a0a624a5b3c1db86667bb08c/githubBanner.png)
 
-I’m a **MERN Stack Developer** passionate about building **scalable, user-friendly, and visually appealing web applications**.  
-My primary focus is on **frontend development with React and Next.js**, while also having solid experience building **backend APIs and full-stack solutions**.
+I'm a **Junior Frontend Developer** from Bangladesh, focused on building **clean, responsive, and scalable web applications**. I specialize in **React.js and Next.js**, with hands-on experience creating user-friendly interfaces, reusable components, and production-ready deployments.
 
-I enjoy solving real-world problems with technology, collaborating with teams, and continuously learning modern tools and best practices to deliver clean, maintainable, and impactful projects.
-
----
-
-## 🛠 Skills
-
-### Frontend
-HTML · CSS · Tailwind CSS · JavaScript · React · Redux Toolkit · Next.js
-
-### Backend & Database
-Node.js · Express.js · MongoDB · Mongoose
-
-### Tools & Platforms
-Git · GitHub · Firebase · Vercel · Netlify
-
-### Soft Skills
-Problem-Solving · Teamwork · Communication · Time Management
+My GitHub showcases projects that reflect **real-world frontend development skills**, including component-based UI architecture, state management, and responsive design. I love transforming ideas into polished web solutions that solve real problems.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Node.js & Express.js** patterns  
-- **Backend architecture** for scalability, performance optimization, and clean code practices  
+### 🔧 Core Skills
+
+**Frontend:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Redux Toolkit, Next.js  
+**Backend (Working Knowledge):** Node.js, Express.js, MongoDB, Mongoose  
+**Tools & Platforms:** Git, GitHub, Firebase, Netlify, Vercel  
+**Professional Strengths:** Problem-solving • Team collaboration • Clear communication • Consistent execution
 
 ---
 
-## 🔗 Connect with Me
+### 🌱 Currently Learning
+- Advanced **Node.js & Express.js** patterns for scalable APIs  
+- **Backend architecture best practices** for full-stack readiness  
+- Improving **UI/UX design patterns** for better user experience  
+
+---
+
+### 🚀 Featured Projects
+
+**Books Review App**  
+![Books Review App Screenshot](https://github.com/moshabbirhossain337/books-review-app/blob/main/screenshot.png)  
+- Responsive React web app to browse books, read reviews, and ratings  
+- Implemented **component-based UI architecture** and **state-driven interactions**  
+- Deployed on Netlify for production-ready performance  
+- [Live Demo](https://books-review-soft.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/books-review-app)  
+
+**Byte Blaze Blog**  
+![Byte Blaze Blog Screenshot](https://github.com/moshabbirhossain337/byte-blaze-blog/blob/main/screenshot.png)  
+- Modern frontend blog platform with **reusable UI components** and clean typography  
+- Built using React & Next.js, with **responsive layouts for multiple devices**  
+- Deployed on Netlify to showcase polished frontend skills  
+- [Live Demo](https://byte-blaze-blog.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/byte-blaze-blog)   
+
+---
+
+### 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moshabbirhossain337)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshabbirhossain337/)
