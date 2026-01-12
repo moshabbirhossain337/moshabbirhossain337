@@ -36,6 +36,7 @@ My GitHub showcases projects that reflect **real-world frontend development skil
 
 **Byte Blaze Blog**  
 ![Byte Blaze Blog Screenshot](./assests/byte-blaze-blog.png)  
+![Byte Blaze Blog Screenshot](./assests/byte-blaze.png)
 - Modern frontend blog platform with **reusable UI components** and clean typography  
 - Built using React & Next.js, with **responsive layouts for multiple devices**  
 - Deployed on Netlify to showcase polished frontend skills  
