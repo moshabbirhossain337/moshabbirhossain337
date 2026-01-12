@@ -28,14 +28,14 @@ My GitHub showcases projects that reflect **real-world frontend development skil
 ### 🚀 Featured Projects
 
 **Books Review App**  
-![Books Review App Screenshot](https://github.com/moshabbirhossain337/books-review-app/assests/screenshot.png)  
+![Books Review App Screenshot](./assests/book.png)  
 - Responsive React web app to browse books, read reviews, and ratings  
 - Implemented **component-based UI architecture** and **state-driven interactions**  
 - Deployed on Netlify for production-ready performance  
 - [Live Demo](https://books-review-soft.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/books-review-app)  
 
 **Byte Blaze Blog**  
-![Byte Blaze Blog Screenshot](https://github.com/moshabbirhossain337/byte-blaze-blog/blob/main/screenshot.png)  
+![Byte Blaze Blog Screenshot](./assests/book.png)  
 - Modern frontend blog platform with **reusable UI components** and clean typography  
 - Built using React & Next.js, with **responsive layouts for multiple devices**  
 - Deployed on Netlify to showcase polished frontend skills  
