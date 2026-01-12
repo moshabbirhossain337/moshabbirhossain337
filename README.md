@@ -63,6 +63,6 @@ Problem-Solving · Teamwork · Communication · Time Management
 
 ![GitHub Stats](https://github-readme-stats-one-theta-71.vercel.app/api?username=moshabbirhossain337&show_icons=true&count_private=true)
 
-<!--
+
 Streak stats intentionally hidden until consistent daily contributions are established.
--->
+
