@@ -35,7 +35,7 @@ My GitHub showcases projects that reflect **real-world frontend development skil
 - [Live Demo](https://books-review-soft.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/books-review-app)  
 
 **Byte Blaze Blog**  
-![Byte Blaze Blog Screenshot](./assests/book.png)  
+![Byte Blaze Blog Screenshot](./assests/byte-blaze-blog.png)  
 - Modern frontend blog platform with **reusable UI components** and clean typography  
 - Built using React & Next.js, with **responsive layouts for multiple devices**  
 - Deployed on Netlify to showcase polished frontend skills  
