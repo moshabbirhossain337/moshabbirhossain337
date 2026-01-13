@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Md. Moshabbir Hossain
-### Junior Frontend Developer | React.js & Next.js | Clean, Scalable UI
+### Junior Frontend Developer | React.js | Next.js | Clean, Scalable UI
 
 ![MERN Stack Developer Banner](https://github.com/moshabbirhossain337/moshabbirhossain337/blob/0a73c720afb59fb0a0a624a5b3c1db86667bb08c/githubBanner.png)
 
