@@ -32,14 +32,14 @@ My GitHub showcases projects that reflect **real-world frontend development skil
 - Responsive React web app to browse books, read reviews, and ratings  
 - Implemented **component-based UI architecture** and **state-driven interactions**  
 - Deployed on Netlify for production-ready performance  
-- [Live Demo](https://books-review-soft.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/books-review-app)  
+- [Live Project](https://books-review-soft.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/books-review-app)  
 
 **Byte Blaze Blog**   
 <img src="./assests/byte-blaze.png" alt="Byte Blaze Blog App Screenshot" width="800">
 - Modern frontend blog platform with **reusable UI components** and clean typography  
 - Built using React & Next.js, with **responsive layouts for multiple devices**  
 - Deployed on Netlify to showcase polished frontend skills  
-- [Live Demo](https://byte-blaze-blog.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/byte-blaze-blog)   
+- [Live Project](https://byte-blaze-blog.netlify.app/) | [GitHub Repo](https://github.com/moshabbirhossain337/byte-blaze-blog)   
 
 ---
 
